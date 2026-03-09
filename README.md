@@ -1,4 +1,7 @@
-# 🏙️ Montreal Housing Market Dashboard
+# 🏠 Montreal Housing Dashboard
+
+> **🔴 Live:** [montreal-housing-dashboard-rdjsnh9h6wxxlkczmbfbcq.streamlit.app](https://montreal-housing-dashboard-rdjsnh9h6wxxlkczmbfbcq.streamlit.app)
+
 
 An interactive data dashboard exploring **rental prices**, **home sale trends**, **affordability**, and **vacancy rates** across Montreal's diverse boroughs — built with Streamlit and Plotly.
 
