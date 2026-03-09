@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: montreal-housing-dashboard
+    runtime: docker
+    repo: https://github.com/yumorepos/montreal-housing-dashboard
+    plan: free
+    healthCheckPath: /_stcore/health
+    envVars:
+      - key: STREAMLIT_SERVER_PORT
+        value: "8501"
