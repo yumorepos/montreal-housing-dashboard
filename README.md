@@ -1,5 +1,8 @@
 # 🏠 Montreal Housing Dashboard
 
+[![CI](https://github.com/yumorepos/montreal-housing-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/yumorepos/montreal-housing-dashboard/actions/workflows/ci.yml)
+
+
 > **🔴 Live:** [montreal-housing-dashboard-rdjsnh9h6wxxlkczmbfbcq.streamlit.app](https://montreal-housing-dashboard-rdjsnh9h6wxxlkczmbfbcq.streamlit.app)
 
 
